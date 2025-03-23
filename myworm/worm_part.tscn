@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://0tcsehdbvfu6"]
+
+[ext_resource type="Script" uid="uid://bta1r1y4au3im" path="res://worm_part.gd" id="1_hr4c2"]
+
+[node name="WormPart" type="Sprite2D"]
+script = ExtResource("1_hr4c2")
