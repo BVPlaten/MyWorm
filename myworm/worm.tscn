@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://s61oavj1e3ko"]
+
+[ext_resource type="Script" uid="uid://cp77sj7rfbbus" path="res://worm.gd" id="1_rdq8q"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_rdq8q")

@@ -14,3 +14,9 @@ config/name="MyWorm"
 run/main_scene="res://arena.tscn"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=960
+window/size/viewport_height=720
+window/size/resizable=false
